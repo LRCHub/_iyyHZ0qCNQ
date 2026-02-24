@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SwitCh",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-24T04:53:53.215682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flicking Your Switch",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/01_Flicking_Your_Switch_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flicking Your Switch",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/02_Flicking_Your_Switch_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Switch Up",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/03_Never_Switch_Up_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Girls - Switch Remix",
+      "artist": "M.I.A. feat. Missy Elliott & Rye Rye",
+      "has_synced": false,
+      "path": "select/04_Bad_Girls_-_Switch_Remix_M.I.A._feat._Missy_Elliott_&_Rye_Rye.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Girls (feat. Missy Elliott & Rye Rye) (Switch Remix)",
+      "artist": "M.I.A.",
+      "has_synced": false,
+      "path": "select/05_Bad_Girls_(feat._Missy_Elliott_&_Rye_Rye)_(Switch_Remix)_M.I.A..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Switch",
+      "artist": "Planet Funk",
+      "has_synced": true,
+      "path": "select/06_The_Switch_Planet_Funk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Switch A Nigga Out",
+      "artist": "Summer Walker",
+      "has_synced": true,
+      "path": "select/07_Switch_A_Nigga_Out_Summer_Walker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SWITCH",
+      "artist": "Wax",
+      "has_synced": false,
+      "path": "select/08_SWITCH_Wax.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Easy (Switch Screens) [feat. Lorde]",
+      "artist": "Son Lux feat. Lorde",
+      "has_synced": true,
+      "path": "select/09_Easy_(Switch_Screens)_[feat._Lorde]_Son_Lux_feat._Lorde.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Easy (Switch Screens)",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/10_Easy_(Switch_Screens)_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Galvanize (Switch Remix)",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/11_Galvanize_(Switch_Remix)_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "L.E.S Artistes - Switch Remix",
+      "artist": "Santigold",
+      "has_synced": false,
+      "path": "select/12_L.E.S_Artistes_-_Switch_Remix_Santigold.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SWITCH",
+      "artist": "Morgan Saint",
+      "has_synced": true,
+      "path": "select/13_SWITCH_Morgan_Saint.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You'll Find a Way (Switch & Sinden Remix)",
+      "artist": "Santigold",
+      "has_synced": false,
+      "path": "select/14_You'll_Find_a_Way_(Switch_&_Sinden_Remix)_Santigold.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You’ll Find a Way (Switch & Sinden remix)",
+      "artist": "Santigold",
+      "has_synced": false,
+      "path": "select/15_You’ll_Find_a_Way_(Switch_&_Sinden_remix)_Santigold.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Switch Up",
+      "artist": "Big Sean feat. Common",
+      "has_synced": true,
+      "path": "select/16_Switch_Up_Big_Sean_feat._Common.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Switch Up (feat. Common)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/17_Switch_Up_(feat._Common)_Big_Sean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SwitCh",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_SwitCh_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
